@@ -1,14 +1,15 @@
-# LangMasta
+## LangMasta
 Débloque tes compétences linguistes
 
-LangMasta - Application d'Apprentissage de Langue avec IA
+
+# LangMasta - Application d'Apprentissage de Langue avec IA
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-#Description
+### Description
 
 LangMasta est une application interactive développée avec Streamlit qui aide les utilisateurs à apprendre du vocabulaire à travers un quiz de traduction et un système de synthèse vocale. L'application utilise gTTS (Google Text-to-Speech) pour la prononciation et un fichier CSV pour stocker les mots et leurs traductions.
 
-#Fonctionnalités
+### Fonctionnalités
 
 📖 Quiz de vocabulaire : Testez vos connaissances en traduisant des mots affichés.
 
@@ -22,7 +23,7 @@ LangMasta est une application interactive développée avec Streamlit qui aide l
 
 🔄 Option de redémarrage : Recommencez le quiz autant de fois que vous le souhaitez.
 
-#Technologies Utilisées
+### Technologies Utilisées
 
 Python
 
@@ -33,7 +34,7 @@ Pandas (gestion des fichiers CSV)
 gTTS (génération de synthèse vocale)
 
 
-#Prérequis
+### Prérequis
 
 Avant d'exécuter l'application, assurez-vous d'avoir installé les dépendances suivantes :
 
@@ -41,7 +42,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 pip install streamlit pandas gtts
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-#Installation et Exécution
+### Installation et Exécution
 
 Clonez le dépôt ou copiez les fichiers du projet.
 
@@ -54,7 +55,7 @@ streamlit run app.py
 xxxxxxxxxxxxxxxxxxxxxxxx
 
 
-#Utilisation
+### Utilisation
 
 - Lancez l'application.
 
@@ -69,7 +70,7 @@ xxxxxxxxxxxxxxxxxxxxxxxx
 Progressez dans le quiz et visez le score parfait !
 
 
-# Améliorations Futures
+### Améliorations Futures
 
 - Ajout de plusieurs niveaux de difficulté.
 
@@ -77,11 +78,11 @@ Progressez dans le quiz et visez le score parfait !
 
 - Extension à d'autres langues et nouveaux types d'exercices.
 
-# Auteur
+### Auteur
 
 NaguiDiv - Développeur de LangMasta
 
 
-# Licence @credit
+### Licence @credit
 
 Ce projet est Open-source.
